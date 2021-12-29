@@ -1,2 +1,2 @@
 # CodeVault
-mostly contains stuff used for practice by owner
+Java Practice Questions Repo
